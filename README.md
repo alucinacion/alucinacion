@@ -1,7 +1,3 @@
-<div align="auto" style="display: inline-block;">
-    <h3 align="auto">Resources </h1>
-        <img src="https://skillicons.dev/icons?i=lua,css,html,ruby,java,python,javascript,typescript,vscode,linux&perline=8" />
-</div>
 
 <h1 align="center">Welcome to my <a href="https://github.com/ofuscada">GitHub</a></h1>
 </div>
@@ -32,3 +28,6 @@
 - JavaScript 🟨
 - TypeScript 📜
 
+<h1 align="center">About <a href="https://es.louisvuitton.com/">Global</a></h1>
+        <img src="https://skillicons.dev/icons?i=lua,css,html,ruby,java,python,javascript,typescript,vscode,linux&perline=8" />
+</div>
