@@ -8,7 +8,7 @@
 - Cybersecurity [ 🔐 ] 
 - Programming   [ 💻 ] 
 
-<h1 align="center">About <a href="https://www.kali.org/">Cybersecurity [ 🔐 ]</a></h1>
+<h1 align="center">About <a href="https://www.kali.org/">Cybersecurity</a></h1>
 
 - Pivoter 📡
 - Pentester 🌐
