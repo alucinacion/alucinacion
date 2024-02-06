@@ -29,5 +29,5 @@
 
 <div align="auto" style="display: inline-block;">
     <h3 align="auto">Resources </h1>
-        <img src="https://skillicons.dev/icons?i=lua,css,html,ruby,java,python,javascript,typescript,vscode&perline=8" />
+        <img src="https://skillicons.dev/icons?i=lua,css,html,ruby,java,python,javascript,typescript,vscode,linux&perline=8" />
 </div>
