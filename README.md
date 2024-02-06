@@ -27,3 +27,7 @@
 - JavaScript 🟨
 - TypeScript 📜
 
+<div align="auto" style="display: inline-block;">
+    <h3 align="auto">Resources </h1>
+        <img src="https://skillicons.dev/icons?i=lua,css,vscode&perline=8" />
+</div>
