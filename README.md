@@ -1,12 +1,8 @@
-<div align="center">
-<h1 align="center">Welcome to my <a href="https://github.com/ofuscada">GitHub.</a> </h1>
+![image](https://github.com/ofuscada/ofuscada/assets/85790432/6b60df57-9a48-41d3-89d8-453a709c4e04)<div align="center">
+<h1 align="center">Welcome to my <a href="https://github.com/ofuscada">GitHub</a> </h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="https://media.discordapp.net/attachments/1200214997008134225/1204536873343656001/58d1814dfc0f9b2d9f7d6df55b69f496.jpg?ex=65d51761&is=65c2a261&hm=230aeb936bfbd37c0be7997cf3912e9ec13049526e9744e6405a4351bc95938a&=&format=webp">
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
 ## Sobre mi
 
