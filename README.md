@@ -13,7 +13,7 @@
 - Pivoter 📡
 - Pentester 🌐
 - Cryptographer 🔑
-- Threat Analyst 🕵️‍♂️
+- Threats Analyst 🕵️‍♂️
 - Forensic Investigator 🔍
 
 ## Proyectos *bombitas*
