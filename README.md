@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my <a href="https://github.com/ofuscada">GitHub</a> </h1>
 </div>
-<img src="https://media.discordapp.net/attachments/1200214997008134225/1204540121177784340/758d137cf5266cda06ba7a37cc34945b.jpg?ex=65d51a68&is=65c2a568&hm=45558c44e3ee9d7219207ab5b360813499c698836aa05c0e21f7ffff327aed6e&=&format=webp">
+<img src="https://media.discordapp.net/attachments/1200214997008134225/1204540602142953552/github-white-2ffa9db8c744260083289a6da771d8bc.png?ex=65d51ada&is=65c2a5da&hm=64eef96c7e6e63336dc79809ffcd0ba235dc6bdabd4a55b693811be25612a89a&=&format=webp&quality=lossless">
 
 
 ## About Me
