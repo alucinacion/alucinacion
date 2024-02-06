@@ -1,9 +1,9 @@
-<h1 align="center">Welcome to my <a href="https://github.com/ofuscada">GitHub</a> </h1>
+# Welcome to my GitHub.
 </div>
 <img src="https://media.discordapp.net/attachments/1200214997008134225/1204540602142953552/github-white-2ffa9db8c744260083289a6da771d8bc.png?ex=65d51ada&is=65c2a5da&hm=64eef96c7e6e63336dc79809ffcd0ba235dc6bdabd4a55b693811be25612a89a&=&format=webp&quality=lossless">
 
 
-## About Me
+## About Me.
 
 - Pentester Web 🌐 
 - Cryptographer 🔑
