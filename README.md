@@ -5,8 +5,8 @@
 
 <h1 align="center">About <a href="https://upload.wikimedia.org/wikipedia/commons/7/7c/Cima_da_Conegliano%2C_God_the_Father.jpg">Me</a></h1>
 
-- Cybersecurity 🔐
-- Programmer 💻
+- ╔ Cybersecurity [ 🔐 ] 
+- ╚ Programming   [ 💻 ] 
 - 
 - ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
 - 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
