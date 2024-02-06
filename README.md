@@ -1,6 +1,6 @@
 # Welcome to my GitHub.
 </div>
-<img src="https://media.discordapp.net/attachments/1200214997008134225/1204540602142953552/github-white-2ffa9db8c744260083289a6da771d8bc.png?ex=65d51ada&is=65c2a5da&hm=64eef96c7e6e63336dc79809ffcd0ba235dc6bdabd4a55b693811be25612a89a&=&format=webp&quality=lossless">
+<img src="https://media.discordapp.net/attachments/1200214997008134225/1204541606917832715/1_cdqd_edAxnfHLyrqKFWHJg.png?ex=65d51bca&is=65c2a6ca&hm=c5436a521fb7d3f7afb0cb070f36eb61af90531c0bf1a0886bdeb11691225117&=&format=webp&quality=lossless&width=1352&height=683">
 
 
 ## About Me.
