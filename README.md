@@ -1,4 +1,3 @@
-![image](https://github.com/ofuscada/ofuscada/assets/85790432/6b60df57-9a48-41d3-89d8-453a709c4e04)<div align="center">
 <h1 align="center">Welcome to my <a href="https://github.com/ofuscada">GitHub</a> </h1>
 </div>
 <img src="">
