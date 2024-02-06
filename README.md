@@ -1,6 +1,6 @@
 # Welcome to my GitHub.
 </div>
-<img src="https://media.discordapp.net/attachments/1200214997008134225/1204541517016993832/Hackers-Stole-GitHub-Desktop-and-Atom-Code.png?ex=65d51bb4&is=65c2a6b4&hm=ee5e202357b9b44df85c1f2994c70d92d1780d62983108525bfcab1add6e0859&=&format=webp&quality=lossless">
+<img src="https://media.discordapp.net/attachments/1200214997008134225/1204541606917832715/1_cdqd_edAxnfHLyrqKFWHJg.png?ex=65d51bca&is=65c2a6ca&hm=c5436a521fb7d3f7afb0cb070f36eb61af90531c0bf1a0886bdeb11691225117&=&format=webp&quality=lossless&width=1352&height=683">
 
 
 ## About Me.
