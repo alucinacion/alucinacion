@@ -1,13 +1,13 @@
 <h1 align="center">Welcome to my <a href="https://github.com/ofuscada">GitHub</a> </h1>
 </div>
-<img src="">
+<img src="https://media.discordapp.net/attachments/1200214997008134225/1204540121177784340/758d137cf5266cda06ba7a37cc34945b.jpg?ex=65d51a68&is=65c2a568&hm=45558c44e3ee9d7219207ab5b360813499c698836aa05c0e21f7ffff327aed6e&=&format=webp">
 
 
-## Sobre mi
+## About Me
 
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+40k subs)
+- Pentester Web 🌐 
+- Cryptographer 🔑
+- Compliance Auditor 📋
 - ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
 - 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
 - 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
