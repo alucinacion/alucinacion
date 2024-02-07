@@ -14,22 +14,22 @@
 
 <h1 align="center">About <a href="https://www.kali.org/">Cybersecurity</a></h1>
 
-- Pivoter    [ 📡 ]
-- Pentester    [ 🌐 ]
-- Cryptographer    [ 🔑 ]
-- Threats Analyst    [ 🕵️‍♂️ ]
-- Forensic Investigator    [ 🔍 ]
+- Pivoter     📡 
+- Pentester     🌐 
+- Cryptographer     🔑 
+- Threats Analyst     🕵️‍♂️ 
+- Forensic Investigator     🔍 
 
 <h1 align="center">About <a href="https://code.visualstudio.com/">Programming</a></h1>
 
-- Lua    [ 🌙 ]
-- CSS    [ 🎨 ]
-- Java    [ ☕ ]
-- Ruby    [ 💎 ]
-- HTML    [ 📄 ]
-- Python    [ 🐍 ]
-- JavaScript    [ 🟨 ]
-- TypeScript    [ 📜 ]
+- Lua     🌙 
+- CSS     🎨 
+- Java     ☕ 
+- Ruby     💎 
+- HTML     📄 
+- Python     🐍 
+- JavaScript     🟨 
+- TypeScript     📜 
 
 <h1 align="center">About <a href="https://es.louisvuitton.com/">Global</a></h1>
         <img src="https://skillicons.dev/icons?i=lua,css,java,ruby,html,python,javascript,typescript,vscode,linux&perline=8" />
