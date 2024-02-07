@@ -15,6 +15,8 @@
 </div>
 
 <h1 align="center">About <a href="https://www.kali.org/">Cybersecurity</a></h1>
+</div>
+<img src="https://media.discordapp.net/attachments/1103833205863354418/1204812458406191205/blckWorld.gif?ex=65d6180a&is=65c3a30a&hm=b32435723f17967f31e866f27d8de2f911287bd3c0a0eb8f938e4f6b8243df71&=">
 
 - Pivoter     📡 
 - Pentester     🌐 
