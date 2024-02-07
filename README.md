@@ -13,8 +13,6 @@
 </div>
 
 <h1 align="center">About <a href="https://www.kali.org/">Cybersecurity</a></h1>
-</div>
-<img src="https://blog.a3sec.com/hs-fs/hubfs/Banner-BLOG-Desafios-Ciberseguridad-1280x384.jpg?width=1280&height=384&name=Banner-BLOG-Desafios-Ciberseguridad-1280x384.jpg">
 
 - Pivoter     📡 
 - Pentester     🌐 
