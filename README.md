@@ -24,9 +24,9 @@
 
 - Lua    [ 🌙 ]
 - CSS    [ 🎨 ]
-- HTML    [ 📄 ]
 - Ruby    [ 💎 ]
 - Java    [ ☕ ]
+- HTML    [ 📄 ]
 - Python    [ 🐍 ]
 - JavaScript    [ 🟨 ]
 - TypeScript    [ 📜 ]
