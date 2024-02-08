@@ -38,5 +38,5 @@
 - TypeScript     📜 
 
 <h1 align="center">About <a href="https://es.louisvuitton.com/">Global</a></h1>
-        <img src="https://skillicons.dev/icons?i=lua,css,java,ruby,html,python,javascript,typescript,vscode,linux&perline=8" />
+        <img src="https://skillicons.dev/icons?i=lua,css,java,ruby,html,python,javascript,typescript,vscode,linux,apple&perline=8" />
 </div>
