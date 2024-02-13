@@ -44,7 +44,6 @@
 
 <h1 align="center">About <a href="https://github.com/ofuscada/">Global</a></h1>
 </div>
-<img src="https://media.discordapp.net/attachments/1103833205863354418/1204812458406191205/blckWorld.gif?ex=65d6180a&is=65c3a30a&hm=b32435723f17967f31e866f27d8de2f911287bd3c0a0eb8f938e4f6b8243df71&=">
 </div>
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
@@ -63,3 +62,5 @@
 <a href="https://www.GoDaddy.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/GoDaddy/#1BDBDB" alt="GoDaddy" height="50" /></a>
 <a href="https://www.kali.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/kalilinux/#557C94" alt="Kali Linux" height="50" /></a>
 <a href="https://www.Portainer.io/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/Portainer/#13BEF9" alt="Portainer" height="50" /></a>
+
+<img src="https://media.discordapp.net/attachments/1103833205863354418/1204812458406191205/blckWorld.gif?ex=65d6180a&is=65c3a30a&hm=b32435723f17967f31e866f27d8de2f911287bd3c0a0eb8f938e4f6b8243df71&=">
