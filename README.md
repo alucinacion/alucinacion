@@ -38,11 +38,8 @@
 - TypeScript     📜
 
 
-<h1 align="center">About <a href="https://github.com/ofuscada/">Global</a></h1>
-        <img src="https://skillicons.dev/icons?i=lua,css,java,ruby,html,python,javascript,typescript,vscode,linux&perline=8" />
-</div>
 
-<h1 align="center">About <a href="https://www.kali.org/">DevOps</a></h1>
+<h1 align="center">About <a href="https://github.com/ofuscada/">Global</a></h1>
 </div>
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
