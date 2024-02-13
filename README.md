@@ -63,4 +63,4 @@
 <a href="https://www.kali.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/kalilinux/#557C94" alt="Kali Linux" height="50" /></a>
 <a href="https://www.Portainer.io/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/Portainer/#13BEF9" alt="Portainer" height="50" /></a>
 
-<img src="https://media.discordapp.net/attachments/1103833205863354418/1204812458406191205/blckWorld.gif?ex=65d6180a&is=65c3a30a&hm=b32435723f17967f31e866f27d8de2f911287bd3c0a0eb8f938e4f6b8243df71&=">
+
