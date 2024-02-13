@@ -62,4 +62,4 @@
 <a href="https://www.GoDaddy.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/GoDaddy/#1BDBDB" alt="GoDaddy" height="50" /></a>
 <a href="https://www.kali.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/kalilinux/#557C94" alt="Kali Linux" height="50" /></a>
 <a href="https://www.Portainer.io/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/Portainer/#13BEF9" alt="Portainer" height="50" /></a>
-<img src="https://skillicons.dev/icons?i=lua,css,java,ruby,html,python,javascript,typescript,vscode,linux&perline=8" />
+<img src="https://skillicons.dev/icons?i=lua,css,java,ruby,html,python,javascript,typescript&perline=8" />
