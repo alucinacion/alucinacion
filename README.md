@@ -26,7 +26,7 @@
 
 <h1 align="center">About <a href="https://code.visualstudio.com/">Programming</a></h1>
 </div>
-<img src="https://media.discordapp.net/attachments/1103833205863354418/1204812458406191205/blckWorld.gif?ex=65d6180a&is=65c3a30a&hm=b32435723f17967f31e866f27d8de2f911287bd3c0a0eb8f938e4f6b8243df71&=">
+<img src="https://media.discordapp.net/attachments/1156671242879914065/1207096477147729920/Black_Crown.gif?ex=65de6732&is=65cbf232&hm=e4485c3407eff387a0ece9b2a14d03324175f9558b25f40f603799d5d30d8931&=">
 
 - Lua     🌙 
 - CSS     🎨 
@@ -44,6 +44,8 @@
 
 <h1 align="center">About <a href="https://github.com/ofuscada/">Global</a></h1>
 </div>
+<img src="https://media.discordapp.net/attachments/1103833205863354418/1204812458406191205/blckWorld.gif?ex=65d6180a&is=65c3a30a&hm=b32435723f17967f31e866f27d8de2f911287bd3c0a0eb8f938e4f6b8243df71&=">
+
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
