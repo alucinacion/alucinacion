@@ -39,7 +39,6 @@
 </div>
 </div>
 
- <img src="https://skillicons.dev/icons?i=lua,css,java,ruby,html,python,javascript,typescript&perline=8" />
 
 
 
