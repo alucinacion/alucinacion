@@ -15,23 +15,23 @@
 </div>
 
 
-- Pivoter     📡 
-- Pentester     🌐 
-- Cryptographer     🔑 
-- Threats Analyst     🕵️‍♂️ 
-- Forensic Investigator     🔍 
+- Pivoter     
+- Pentester     
+- Cryptographer    
+- Threats Analyst     
+- Forensic Investigator     
 
 <h1 align="center">About <a href="https://code.visualstudio.com/">Programming</a></h1>
 </div>
 
-- Lua     🌙 
-- CSS     🎨 
-- Java     ☕ 
-- Ruby     💎 
-- HTML     📄 
-- Python     🐍 
-- JavaScript     🟨 
-- TypeScript     📜
+- Lua     
+- CSS     
+- Java     
+- Ruby     
+- HTML     
+- Python     
+- JavaScript     
+- TypeScript    
 </div>
 </div>
 
