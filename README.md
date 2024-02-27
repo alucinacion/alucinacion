@@ -3,6 +3,7 @@
 <h1 align="center">About <a href="https://github.com/ofuscada/">Me</a></h1>
 </div>
 
+<img src="https://media.discordapp.net/attachments/1156671242879914065/1212173529056022528/black_grim_1.gif?ex=65f0df92&is=65de6a92&hm=ad15e4b2cea9c3263fc958319214fb2f2515675be8a42a6c214ed23e9131d790&=">
 
 - Knowledges About Cybersecurity      
 - Knowledges About Programming     
