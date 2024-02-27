@@ -37,10 +37,11 @@
 </div>
 
 
-<img src="https://media.discordapp.net/attachments/1156671242879914065/1212174643704889354/g_black_batman_PDT.gif?ex=65f0e09c&is=65de6b9c&hm=bf8b46d45c3dfc4f718f528261a5999512458c5e7724d60ff7cbf1173d8df4d3&=">
 
 
 <h1 align="center">About <a href="https://github.com/ofuscada/">Global</a></h1>
+<img src="https://media.discordapp.net/attachments/1156671242879914065/1212174643704889354/g_black_batman_PDT.gif?ex=65f0e09c&is=65de6b9c&hm=bf8b46d45c3dfc4f718f528261a5999512458c5e7724d60ff7cbf1173d8df4d3&=">
+
 </div>
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
