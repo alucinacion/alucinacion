@@ -37,6 +37,7 @@
 </div>
 
 
+<img src="https://media.discordapp.net/attachments/1156671242879914065/1212174643704889354/g_black_batman_PDT.gif?ex=65f0e09c&is=65de6b9c&hm=bf8b46d45c3dfc4f718f528261a5999512458c5e7724d60ff7cbf1173d8df4d3&=">
 
 
 <h1 align="center">About <a href="https://github.com/ofuscada/">Global</a></h1>
