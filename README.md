@@ -5,8 +5,8 @@
 </div>
 
 
-- Knowledges About Cybersecurity      🔐 
-- Knowledges About Programming     💻 
+- Knowledges About Cybersecurity      
+- Knowledges About Programming     
 </div>
 </div>
 </div>
