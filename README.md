@@ -23,7 +23,7 @@
 
 <h1 align="center">About <a href="https://code.visualstudio.com/">Programming</a></h1>
 </div>
-<img src="ttps://media.discordapp.net/attachments/1156671242879914065/1212174410535145482/Card_Black.gif?ex=65f0e064&is=65de6b64&hm=e6da94adf77ef8479502442cf8af51a4b8024980c7e3a3193d0b3a9f1af92b00&=">
+<img src="https://media.discordapp.net/attachments/1156671242879914065/1212174723119718410/black_ponto.gif?ex=65f0e0af&is=65de6baf&hm=86a63c1b24aaebb276745ec5ca1930f7f764ced46cec6938d8e392567fb3fb47&=">
 
 - Lua     
 - CSS     
