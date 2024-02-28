@@ -1,7 +1,4 @@
-<h1 align="center">About <a href="https://github.com/ofuscada/">Me</a></h1>
-</div>
 
-<img src="https://media.discordapp.net/attachments/1156671242879914065/1212179854477369374/232452938-06de4ce6-343d-44de-85d9-5f0c99ab4f27.gif?ex=65f0e576&is=65de7076&hm=660ab64afd056ca77dd6159a0c384297426d86a373d0f30980c56e1ccf106c2a&=">
 
 <h1 align="center">About <a href="https://github.com/ofuscada/">Me</a></h1>
 </div>
