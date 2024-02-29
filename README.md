@@ -1,3 +1,4 @@
+<img src="https://media.discordapp.net/attachments/1156671242879914065/1212749939978018876/nightascii.gif?ex=65f2f865&is=65e08365&hm=7fb3bc70248cb75b91e220bbfdf23c506b83973bc69c0bd8c4d593d75891e0cd&=">
 
 
 <h1 align="center">About <a href="https://github.com/ofuscada/">Me</a></h1>
