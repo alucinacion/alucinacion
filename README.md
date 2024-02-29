@@ -5,7 +5,7 @@
 <h1 align="center">About <a href="https://github.com/ofuscada/">Me</a></h1>
 </div>
 
-<img src="https://media.discordapp.net/attachments/1122114114488111124/1212753201393041428/Black_Sparks.gif?ex=65f2fb6f&is=65e0866f&hm=a531f4b6981dfb9638db795893399ad14fa927319fd58b6c13941a59e269f734&=">
+<img src="https://media.discordapp.net/attachments/1156671242879914065/1212174723119718410/black_ponto.gif?ex=65f0e0af&is=65de6baf&hm=86a63c1b24aaebb276745ec5ca1930f7f764ced46cec6938d8e392567fb3fb47&=">
 
 - Knowledges About Cybersecurity      
 - Knowledges About Programming     
