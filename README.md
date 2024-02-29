@@ -36,8 +36,6 @@
 - JavaScript     
 - TypeScript    
 </div>
-</div>
-
 
 
 
