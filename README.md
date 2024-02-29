@@ -13,7 +13,7 @@
 
 <h1 align="center">About <a href="https://www.kali.org/">Cybersecurity</a></h1>
 </div>
-<img src="https://media.discordapp.net/attachments/1156671242879914065/1212173799513128960/black_skull_1.gif?ex=65f0dfd2&is=65de6ad2&hm=2a9402424e7b70afdf85fbb2622f55cca0b7c55726992dcd55ae929c248d88a7&=">
+<img src="https://media.discordapp.net/attachments/1156671242879914065/1212748981747322890/black_bolt.gif?ex=65f2f781&is=65e08281&hm=a038283f4f44819485b34deaf38157d75bdbf11e9ea2d353e34bbbb23547a3b9&=">
 
 - Pivoter     
 - Pentester     
