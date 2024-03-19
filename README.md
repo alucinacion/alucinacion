@@ -28,9 +28,7 @@
 <img src="https://media.discordapp.net/attachments/1156671242879914065/1212175823021412352/black_bats.gif?ex=65f0e1b5&is=65de6cb5&hm=12965bfed40d6eb682532e66ee7524c165dfce4610a86e644e4e98111129b298&=">
 
 - Lua     
-- CSS     
-- Java     
-- Ruby     
+- CSS      
 - HTML     
 - Python     
 - JavaScript     
