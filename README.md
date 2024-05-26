@@ -1,8 +1,8 @@
-<h1 align="center">Welcome to my <a href="https://github.com/ofuscada/">GitHub</a></h1>
+<h1 align="center">Welcome to my <a href="https://github.com/gimnasio/">GitHub</a></h1>
 <img src="https://media.discordapp.net/attachments/1156671242879914065/1212749939978018876/nightascii.gif?ex=65f2f865&is=65e08365&hm=7fb3bc70248cb75b91e220bbfdf23c506b83973bc69c0bd8c4d593d75891e0cd&=">
 
 
-<h1 align="center">About <a href="https://github.com/ofuscada/">Me</a></h1>
+<h1 align="center">About <a href="https://github.com/gimnasio/">Me</a></h1>
 </div>
 
 <img src="https://media.discordapp.net/attachments/1156671242879914065/1212173529056022528/black_grim_1.gif?ex=65f0df92&is=65de6a92&hm=ad15e4b2cea9c3263fc958319214fb2f2515675be8a42a6c214ed23e9131d790&=">
@@ -37,7 +37,7 @@
 
 
 
-<h1 align="center">About <a href="https://github.com/ofuscada/">Global</a></h1>
+<h1 align="center">About <a href="https://github.com/gimnasio/">Global</a></h1>
 <img src="https://media.discordapp.net/attachments/1156671242879914065/1212176057164238888/b_planeta.gif?ex=65f0e1ed&is=65de6ced&hm=527ce5a561c0c318810f3967789cd4d796ddabf0f9596ac2ac54430c4368c4e8&=">
 
 </div>
