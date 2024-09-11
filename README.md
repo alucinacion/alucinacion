@@ -13,7 +13,7 @@
 
 <h1 align="center">About <a href="https://www.kali.org/">Cybersecurity</a></h1>
 <p align="center">
-  <img align="center" alt="gif" width="100" src="https://cdn.discordapp.com/attachments/1156671242879914065/1283392129745289227/kali.png?ex=66e2d390&is=66e18210&hm=4a8bbaa43bc78e458b06e4d5b4c28825b3546ee963adeeca624cf6c19ea911bd&">
+  <img align="center" alt="gif" width="120" src="https://cdn.discordapp.com/attachments/1156671242879914065/1283392129745289227/kali.png?ex=66e2d390&is=66e18210&hm=4a8bbaa43bc78e458b06e4d5b4c28825b3546ee963adeeca624cf6c19ea911bd&">
 </p>
 
 - Pivoter
