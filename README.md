@@ -4,13 +4,6 @@
 <p align="center">
   <img align="center" alt="gif" width="1300" src="https://media.discordapp.net/attachments/1156671242879914065/1283389221369024596/asciinight.gif?ex=66e2d0da&is=66e17f5a&hm=7ce598a36b1b6e1ed597c2311be7dd438d6233960adb21202882da42d16959c3&=">
 </p>
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/demo/?letterSpacing=arial&duration=3000&lines=Welcome+back+to+my+GitHub+;Know+more+about+myself+bellow;Discord%3A+%40sendtext+" />
-  </a>
-</div>
-<!--
-<h3 align="center">On a Journey to become a great human being...<p align="right"></h3> -->
 
 <h1 align="center">About <a href="https://github.com/gimnasio/">Me</a>
 </h1>
