@@ -5,6 +5,9 @@
 
 <h1 align="center">About <a href="https://github.com/gimnasio/">Me</a></h1>
 <p align="center">
+<h2 align="left">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+</h2>
   <img align="center" alt="gif" width="100" src="https://media.discordapp.net/attachments/1156671242879914065/1283394127316254831/blurple_crown.png?ex=66e2d56c&is=66e183ec&hm=e1520d565d1b66f765294c98273175a4df79111261f86c447599f367027e047c&=&format=webp&quality=lossless">
 </p>
 
