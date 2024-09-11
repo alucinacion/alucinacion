@@ -36,7 +36,7 @@
 
 <h1 align="center">About <a href="https://github.com/gimnasio/">Global</a></h1>
 <p align="center">
-  <img align="center" alt="gif" width="500" src="https://media.discordapp.net/attachments/1156671242879914065/1212176057164238888/b_planeta.gif?ex=65f0e1ed&is=65de6ced&hm=527ce5a561c0c318810f3967789cd4d796ddabf0f9596ac2ac54430c4368c4e8&=">
+  <img align="center" alt="gif" width="100" src="https://media.discordapp.net/attachments/1156671242879914065/1283393838018461716/global.png?ex=66e2d527&is=66e183a7&hm=716018a3785c0114a5f32e37edfdfa3a20d07a0de8b8851088f1238b289b614b&=&format=webp&quality=lossless">
 </p>
 
 <p align="center">
