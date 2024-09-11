@@ -1,11 +1,11 @@
-<h1 align="center">Welcome to my <a href="https://github.com/gimnasio/">GitHub</a>
+<h1 align="center">Welcome to my <a href="https://github.com/alucinacion/">GitHub</a>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h1>
 <p align="center">
   <img align="center" alt="gif" width="1300" src="https://media.discordapp.net/attachments/1156671242879914065/1283389221369024596/asciinight.gif?ex=66e2d0da&is=66e17f5a&hm=7ce598a36b1b6e1ed597c2311be7dd438d6233960adb21202882da42d16959c3&=">
 </p>
 
-<h1 align="center">About <a href="https://github.com/gimnasio/">Me</a>
+<h1 align="center">About <a href="https://github.com/alucinacion/">Me</a>
 </h1>
 <p align="center">
   <img align="center" alt="gif" width="100" src="https://media.discordapp.net/attachments/1156671242879914065/1283394127316254831/blurple_crown.png?ex=66e2d56c&is=66e183ec&hm=e1520d565d1b66f765294c98273175a4df79111261f86c447599f367027e047c&=&format=webp&quality=lossless">
@@ -37,7 +37,7 @@
 - JavaScript
 - TypeScript
 
-<h1 align="center">About <a href="https://github.com/gimnasio/">Global</a></h1>
+<h1 align="center">About <a href="https://github.com/alucinacion/">Global</a></h1>
 <p align="center">
   <img align="center" alt="gif" width="100" src="https://media.discordapp.net/attachments/1156671242879914065/1283393838018461716/global.png?ex=66e2d527&is=66e183a7&hm=716018a3785c0114a5f32e37edfdfa3a20d07a0de8b8851088f1238b289b614b&=&format=webp&quality=lossless">
 </p>
