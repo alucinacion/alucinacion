@@ -4,7 +4,12 @@
 <p align="center">
   <img align="center" alt="gif" width="1300" src="https://media.discordapp.net/attachments/1156671242879914065/1283389221369024596/asciinight.gif?ex=66e2d0da&is=66e17f5a&hm=7ce598a36b1b6e1ed597c2311be7dd438d6233960adb21202882da42d16959c3&=">
 </p>
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=On+journey+to+become+a+great+Hacker" alt="Typing SVG" />
+  </a>
+</div>
+</p>
 <h1 align="center">About <a href="https://github.com/gimnasio/">Me</a>
 </h1>
 <p align="center">
