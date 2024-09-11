@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my <a href="https://github.com/gimnasio/">GitHub</a></h1>
 <p align="center">
-  <img align="center" alt="gif" width="500" src="[https://media.discordapp.net/attachments/1156671242879914065/1212749939978018876/nightascii.gif?ex=65f2f865&is=65e08365&hm=7fb3bc70248cb75b91e220bbfdf23c506b83973bc69c0bd8c4d593d75891e0cd&=](https://media.discordapp.net/attachments/1156671242879914065/1283389221369024596/asciinight.gif?ex=66e2d0da&is=66e17f5a&hm=7ce598a36b1b6e1ed597c2311be7dd438d6233960adb21202882da42d16959c3&=)">
+  <img align="center" alt="gif" width="500" src="https://media.discordapp.net/attachments/1156671242879914065/1283389221369024596/asciinight.gif?ex=66e2d0da&is=66e17f5a&hm=7ce598a36b1b6e1ed597c2311be7dd438d6233960adb21202882da42d16959c3&=">
 </p>
 
 <h1 align="center">About <a href="https://github.com/gimnasio/">Me</a></h1>
