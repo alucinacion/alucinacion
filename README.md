@@ -9,7 +9,8 @@
     <img src="https://readme-typing-svg.demolab.com/demo/?letterSpacing=arial&duration=3000&lines=Welcome+back+to+my+GitHub+;Know+more+about+myself+bellow;Discord%3A+%40sendtext+" />
   </a>
 </div>
-</p>
+
+
 <h1 align="center">About <a href="https://github.com/gimnasio/">Me</a>
 </h1>
 <p align="center">
