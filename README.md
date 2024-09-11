@@ -1,11 +1,14 @@
 <h1 align="center">Welcome to my <a href="https://github.com/gimnasio/">GitHub</a></h1>
 <p align="center">
-  <img src="https://github.com/tu_usuario/tu_repo/blob/main/imagenes/nightascii.gif?raw=true" alt="Night Ascii">
+![image](https://github.com/user-attachments/assets/a4bc5ff7-4636-4bfb-a14f-ba842412a677)
+
+  <img src="https://github.com/tu_usuario/tu_repo/blob/main/nightascii.gif?raw=true" alt="Night Ascii">
 </p>
 
 <h1 align="center">About <a href="https://github.com/gimnasio/">Me</a></h1>
 <p align="center">
-  <img src="https://github.com/tu_usuario/tu_repo/blob/main/imagenes/black_grim_1.gif?raw=true" alt="Black Grim">
+  <!-- Reemplaza esta URL con la URL de tu imagen subida a GitHub -->
+  <img src="https://github.com/tu_usuario/tu_repo/blob/main/black_grim_1.gif?raw=true" alt="Black Grim">
 </p>
 
 - Knowledge About Cybersecurity
@@ -13,7 +16,8 @@
 
 <h1 align="center">About <a href="https://www.kali.org/">Cybersecurity</a></h1>
 <p align="center">
-  <img src="https://github.com/tu_usuario/tu_repo/blob/main/imagenes/black_bolt.gif?raw=true" alt="Black Bolt">
+  <!-- Reemplaza esta URL con la URL de tu imagen subida a GitHub -->
+  <img src="https://github.com/tu_usuario/tu_repo/blob/main/black_bolt.gif?raw=true" alt="Black Bolt">
 </p>
 
 - Pivoter
@@ -24,7 +28,8 @@
 
 <h1 align="center">About <a href="https://code.visualstudio.com/">Programming</a></h1>
 <p align="center">
-  <img src="https://github.com/tu_usuario/tu_repo/blob/main/imagenes/black_bats.gif?raw=true" alt="Black Bats">
+  <!-- Reemplaza esta URL con la URL de tu imagen subida a GitHub -->
+  <img src="https://github.com/tu_usuario/tu_repo/blob/main/black_bats.gif?raw=true" alt="Black Bats">
 </p>
 
 - Lua
@@ -36,7 +41,8 @@
 
 <h1 align="center">About <a href="https://github.com/gimnasio/">Global</a></h1>
 <p align="center">
-  <img src="https://github.com/tu_usuario/tu_repo/blob/main/imagenes/b_planeta.gif?raw=true" alt="Planeta">
+  <!-- Reemplaza esta URL con la URL de tu imagen subida a GitHub -->
+  <img src="https://github.com/tu_usuario/tu_repo/blob/main/b_planeta.gif?raw=true" alt="Planeta">
 </p>
 
 <p align="center">
