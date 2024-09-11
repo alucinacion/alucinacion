@@ -45,14 +45,10 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
   <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
   <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>
-  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>
   <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>
-  <a href="https://www.bitbucket.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/bitbucket" alt="Bitbucket" height="50" /></a>
   <a href="https://www.cloudflare.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/cloudflare" alt="Cloudflare" height="50" /></a>
   <a href="https://www.debian.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/debian" alt="Debian" height="50" /></a>
   <a href="https://www.digitalocean.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/digitalocean" alt="DigitalOcean" height="50" /></a>
   <a href="https://www.github.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/github" alt="GitHub" height="50" /></a>
-  <a href="https://www.godaddy.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/godaddy" alt="GoDaddy" height="50" /></a>
   <a href="https://www.kali.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/kalilinux" alt="Kali Linux" height="50" /></a>
-  <a href="https://www.portainer.io/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/portainer" alt="Portainer" height="50" /></a>
 </p>
