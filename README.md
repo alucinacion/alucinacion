@@ -38,3 +38,21 @@
 <p align="center">
   <img align="center" alt="gif" width="500" src="https://i.pinimg.com/originals/a0/37/54/a037544cbb5c58875ace76db08d83ec2.gif">
 </p>
+
+<p align="center">
+  <a href="https://www.linux.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
+  <a href="https://github.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+  <a href="https://www.gnu.org/software/bash/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
+  <a href="https://www.docker.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
+  <a href="https://www.nginx.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>
+  <a href="https://docs.microsoft.com/en-us/powershell/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>
+  <a href="https://about.gitlab.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>
+  <a href="https://www.Bitbucket.com/"><img style="margin: 10px" src="https://cdn.simpleicons.org/Bitbucket/#0052CC" alt="Bitbucket" height="50" /></a>
+  <a href="https://www.Cloudflare.com/"><img style="margin: 10px" src="https://cdn.simpleicons.org/Cloudflare/#F38020" alt="Cloudflare" height="50" /></a>
+  <a href="https://www.Debian.com/"><img style="margin: 10px" src="https://cdn.simpleicons.org/Debian/#A81D33" alt="Debian" height="50" /></a>
+  <a href="https://www.DigitalOcean.com/"><img style="margin: 10px" src="https://cdn.simpleicons.org/DigitalOcean/#0080FF" alt="DigitalOcean" height="50" /></a>
+  <a href="https://www.GitHub.com/"><img style="margin: 10px" src="https://cdn.simpleicons.org/GitHub/#181717" alt="GitHub" height="50" /></a>
+  <a href="https://www.GoDaddy.com/"><img style="margin: 10px" src="https://cdn.simpleicons.org/GoDaddy/#1BDBDB" alt="GoDaddy" height="50" /></a>
+  <a href="https://www.kali.org/"><img style="margin: 10px" src="https://cdn.simpleicons.org/kalilinux/#557C94" alt="Kali Linux" height="50" /></a>
+  <a href="https://www.Portainer.io/"><img style="margin: 10px" src="https://cdn.simpleicons.org/Portainer/#13BEF9" alt="Portainer" height="50" /></a>
+</p>
