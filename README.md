@@ -5,7 +5,7 @@
 
 <h1 align="center">About <a href="https://github.com/gimnasio/">Me</a></h1>
 <p align="center">
-  <img align="center" alt="gif" width="100" src="https://media.discordapp.net/attachments/1156671242879914065/1283391045148741733/purple_gengar_1.png?ex=66e2d28d&is=66e1810d&hm=cc75f9920bec71a4650b6cb685a5decca093adad54547db2918dcb1af0ebf9e1&=&format=webp&quality=lossless">
+  <img align="center" alt="gif" width="100" src="https://media.discordapp.net/attachments/1156671242879914065/1283394127316254831/blurple_crown.png?ex=66e2d56c&is=66e183ec&hm=e1520d565d1b66f765294c98273175a4df79111261f86c447599f367027e047c&=&format=webp&quality=lossless">
 </p>
 
 - Knowledge About Cybersecurity
