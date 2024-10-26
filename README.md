@@ -27,7 +27,7 @@
 
 <h1 align="center">About <a href="https://code.visualstudio.com/">Programming</a></h1>
 <p align="center">
-  <img align="center" alt="gif" width="90" src="https://media.discordapp.net/attachments/1209752963988463666/1294976643743354921/Visual_Studio_Code.png?ex=670cf87b&is=670ba6fb&hm=77f0c7ebbda3861cac074bbcea5d614ed4b714712ffb62d7b7a02f16fe730350&=&format=webp&quality=lossless">
+  <img align="center" alt="gif" width="90" src="https://media.discordapp.net/attachments/1209752963988463666/1294976643743354921/Visual_Studio_Code.png?ex=671e1bfb&is=671cca7b&hm=175a332950d21af6d8c2eb35695355d37ad9de3a6adef7d72cfc2875c05f63b8&=&format=webp&quality=lossless">
 </p>
 
 - Lua
