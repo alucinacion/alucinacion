@@ -8,7 +8,7 @@
 <h1 align="center">About <a href="https://github.com/alucinacion/">Me</a>
 </h1>
 <p align="center">
-  <img align="center" alt="gif" width="100" src="https://media.discordapp.net/attachments/1209752963988463666/1299705583422672936/Epic_Face_.png?ex=671e2ca6&is=671cdb26&hm=0f57ae438710733fad3474286ef81786cad10435fde9d5269694c0bba5664e47&=&format=webp&quality=lossless">
+  <img align="center" alt="gif" width="100" src="https://media.discordapp.net/attachments/1209752963988463666/1294976643743354921/Visual_Studio_Code.png?ex=671e1bfb&is=671cca7b&hm=175a332950d21af6d8c2eb35695355d37ad9de3a6adef7d72cfc2875c05f63b8&=&format=webp&quality=lossless">
 </p>
 
 - Knowledge About Cybersecurity
@@ -16,7 +16,7 @@
 
 <h1 align="center">About <a href="https://www.kali.org/">Cybersecurity</a></h1>
 <p align="center">
-  <img align="center" alt="gif" width="120" src="https://media.discordapp.net/attachments/1209752963988463666/1294976588794036234/kali.png?ex=670cf86e&is=670ba6ee&hm=14d3c61bda0b81a2049f6912ab903f1e7e05800598bddb76ec4d452c159d5de5&=&format=webp&quality=lossless">
+  <img align="center" alt="gif" width="120" src="https://media.discordapp.net/attachments/1209752963988463666/1294976588794036234/kali.png?ex=671e1bee&is=671cca6e&hm=2ea0f3ebbdee1dd7101a3ac4936785f2e4ca30b6e7b96534aae70a08c68627a4&=&format=webp&quality=lossless">
 </p>
 
 - Pivoter
@@ -39,7 +39,7 @@
 
 <h1 align="center">About <a href="https://github.com/alucinacion/">Global</a></h1>
 <p align="center">
-  <img align="center" alt="gif" width="100" src="https://media.discordapp.net/attachments/1209752963988463666/1294976768045875242/global.png?ex=670cf899&is=670ba719&hm=de9125f8b85f33794512eeed7ab00bf5f20ac504ca5814988c082bcb47a5c51a&=&format=webp&quality=lossless">
+  <img align="center" alt="gif" width="100" src="https://media.discordapp.net/attachments/1209752963988463666/1294976768045875242/global.png?ex=671e1c19&is=671cca99&hm=bb5b9a904e1bf5255ed74440a67f58dc6ce2bd5012ea433a2b215708d562beca&=&format=webp&quality=lossless">
 </p>
 
 <p align="center">
