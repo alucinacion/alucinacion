@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h1>
 <p align="center">
-  <img align="center" alt="gif" width="1300" src="https://media.discordapp.net/attachments/1209752963988463666/1294976698495795290/asciinight.gif?ex=670cf888&is=670ba708&hm=d15aafcf13e86b26f7d5292a2742924ab6e44c45046c82137fb6ceca2dc07fa2&=">
+  <img align="center" alt="gif" width="1300" src="https://media.discordapp.net/attachments/1299740753353769071/1301873338817314907/asciinight.gif?ex=67260f87&is=6724be07&hm=5e8214c0fbdc1bb9a1865f442124738f0ee285708966512f4ac70a6ae90c3a8a&=">
 </p>
 
 <h1 align="center">About <a href="https://github.com/alucinacion/">Me</a>
