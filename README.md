@@ -8,7 +8,7 @@
 <h1 align="center">About <a href="https://github.com/alucinacion/">Me</a>
 </h1>
 <p align="center">
-  <img align="center" alt="gif" width="100" src="https://media.discordapp.net/attachments/1209752963988463666/1294976643743354921/Visual_Studio_Code.png?ex=671e1bfb&is=671cca7b&hm=175a332950d21af6d8c2eb35695355d37ad9de3a6adef7d72cfc2875c05f63b8&=&format=webp&quality=lossless">
+  <img align="center" alt="gif" width="100" src="https://media.discordapp.net/attachments/1236614257244901470/1330664015076003891/72-Purple-Verified.png?ex=678eccef&is=678d7b6f&hm=c64dd380c953c3854391daecf76be15c2d1351bba96dcd39bba75d5fad3b0858&=&format=webp&quality=lossless">
 </p>
 
 - Knowledge About Cybersecurity
