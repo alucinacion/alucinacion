@@ -39,7 +39,7 @@
 
 <h1 align="center">About <a href="https://github.com/alucinacion/">Global</a></h1>
 <p align="center">
-  <img align="center" alt="gif" width="100" src="https://media.discordapp.net/attachments/1209752963988463666/1294976768045875242/global.png?ex=671e1c19&is=671cca99&hm=bb5b9a904e1bf5255ed74440a67f58dc6ce2bd5012ea433a2b215708d562beca&=&format=webp&quality=lossless">
+  <img align="center" alt="gif" width="100" src="https://media.discordapp.net/attachments/1236614257244901470/1330665325963903017/global.png?ex=678ece28&is=678d7ca8&hm=ebd3fd46b28933a145eadbc5187ca61046630580c4077eb8e57156653fdd64af&=&format=webp&quality=lossless">
 </p>
 
 <p align="center">
