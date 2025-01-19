@@ -16,7 +16,7 @@
 
 <h1 align="center">About <a href="https://www.kali.org/">Cybersecurity</a></h1>
 <p align="center">
-  <img align="center" alt="gif" width="120" src="https://media.discordapp.net/attachments/1236614257244901470/1330664015076003891/72-Purple-Verified.png?ex=678eccef&is=678d7b6f&hm=c64dd380c953c3854391daecf76be15c2d1351bba96dcd39bba75d5fad3b0858&=&format=webp&quality=lossless">
+  <img align="center" alt="gif" width="120" src="https://media.discordapp.net/attachments/1236614257244901470/1330664906646618151/kali.png?ex=678ecdc4&is=678d7c44&hm=05c86736350761601fb0ee29d2c15e01f56542985d263953eacfaaac80a99e4a&=&format=webp&quality=lossless">
 </p>
 
 - Pivoter
@@ -27,7 +27,7 @@
 
 <h1 align="center">About <a href="https://code.visualstudio.com/">Programming</a></h1>
 <p align="center">
-  <img align="center" alt="gif" width="90" src="https://media.discordapp.net/attachments/1209752963988463666/1294976643743354921/Visual_Studio_Code.png?ex=671e1bfb&is=671cca7b&hm=175a332950d21af6d8c2eb35695355d37ad9de3a6adef7d72cfc2875c05f63b8&=&format=webp&quality=lossless">
+  <img align="center" alt="gif" width="90" src="https://media.discordapp.net/attachments/1236614257244901470/1330665058610577459/Visual_Studio_Code.png?ex=678ecde8&is=678d7c68&hm=a4d976d0579c1d8ae28bc60666179700517fb1a67b8653c064895854009f99fd&=&format=webp&quality=lossless">
 </p>
 
 - Lua
