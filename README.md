@@ -1,10 +1,4 @@
-<a target="_blank" href="https://wafflesexploits.github.io/"><img src="https://img.shields.io/badge/-Website-red?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Website Badge"></a>
-<a target="_blank" href="https://linkedin.com/in/Andre0liveira"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=fff" alt="Linkedin Badge"></a>
-<a target="_blank" href="https://x.com/waflisan"><img src="https://img.shields.io/badge/-X (Twitter)-000?style=for-the-badge&logo=x&logoColor=fff" alt="X Badge"></a>
-<a target="_blank" href="https://tryhackme.com/p/WafflesExploit"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe Badge"></a>
-<a target="_blank" href="https://app.hackthebox.com/users/1226970"><img src="https://img.shields.io/badge/-HackTheBox-76B004?style=for-the-badge&logo=HackTheBox&logoColor=white" alt="HackTheBox Badge"></a>
-<a target="_blank"><img src="https://img.shields.io/badge/-waflisan-5865F2?style=for-the-badge&logo=Discord&logoColor=white" alt="HackTheBox Badge"></a>
-<a target="_blank" href="mailto:andreoliveira208@gmail.com"><img src="https://img.shields.io/badge/-Mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Mail Badge"></a>
+
 
 <h1 align="center">Welcome to my <a href="https://github.com/alucinacion/">GitHub</a>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
