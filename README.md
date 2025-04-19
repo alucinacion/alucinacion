@@ -1,59 +1,120 @@
+<div align=center>
 
+![beigebanner](https://github.com/user-attachments/assets/5f1a94e2-fb08-47a5-bac0-dee9ab28fd5f)
 
-<h1 align="center">Welcome to my <a href="https://github.com/alucinacion/">GitHub</a>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
-</h1>
-<p align="center">
-  <img align="center" alt="gif" width="1300" src="https://media.discordapp.net/attachments/1209146735528517653/1328736791783804928/asciinight.gif?ex=6787ca11&is=67867891&hm=37577bcd598eddcc7cd640f0180d5aaf9508525fa8f2504f426eb87bc1ad8621&=">
-</p>
+<div width="100%" align="center">
+<h2 align="center"> Join The Club! </h2>
 
-<h1 align="center">About <a href="https://github.com/alucinacion/">Me</a>
-</h1>
-<p align="center">
-  <img align="center" alt="gif" width="100" src="https://media.discordapp.net/attachments/1236614257244901470/1330666997645578362/blue_Dev.PNG?ex=678ecfb6&is=678d7e36&hm=17d3b973f2144e0e0263264936739e5adca29b85a7c23297eaba8022de39be08&=&format=webp&quality=lossless">
-</p>
+<div align=center>
 
-- Knowledge About Cybersecurity
-- Knowledge About Programming
+[![Join our Discord server!](https://invidget.switchblade.xyz/QjKMHkdjFc)](https://discord.gg/QjKMHkdjFc)
 
-<h1 align="center">About <a href="https://www.kali.org/">Cybersecurity</a></h1>
-<p align="center">
-  <img align="center" alt="gif" width="120" src="https://media.discordapp.net/attachments/1236614257244901470/1330664906646618151/kali.png?ex=678ecdc4&is=678d7c44&hm=05c86736350761601fb0ee29d2c15e01f56542985d263953eacfaaac80a99e4a&=&format=webp&quality=lossless">
-</p>
+</div>
 
-- Pivoter
-- Pentester
-- Cryptographer
-- Threats Analyst
-- Forensic Investigator
+<h2 align="center"> My Repositories </h2>
+  
+</div>
 
-<h1 align="center">About <a href="https://code.visualstudio.com/">Programming</a></h1>
-<p align="center">
-  <img align="center" alt="gif" width="90" src="https://media.discordapp.net/attachments/1236614257244901470/1330665058610577459/Visual_Studio_Code.png?ex=678ecde8&is=678d7c68&hm=a4d976d0579c1d8ae28bc60666179700517fb1a67b8653c064895854009f99fd&=&format=webp&quality=lossless">
-</p>
+<div width="100%" align="center">
+  
+  <h3 align="center"> Hardware Projects </h3>
 
-- Lua
-- CSS
-- HTML
-- Python
-- JavaScript
-- TypeScript
+  <a align="left" href="https://github.com/beigeworm/PicoLogger-Hardware-Keylogger" title="PicoLogger-Hardware-Keylogger"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=PicoLogger-Hardware-Keylogger&theme=highcontrast"></a>
 
-<h1 align="center">About <a href="https://github.com/alucinacion/">Global</a></h1>
-<p align="center">
-  <img align="center" alt="gif" width="100" src="https://media.discordapp.net/attachments/1236614257244901470/1330665325963903017/global.png?ex=678ece28&is=678d7ca8&hm=ebd3fd46b28933a145eadbc5187ca61046630580c4077eb8e57156653fdd64af&=&format=webp&quality=lossless">
-</p>
+  <a align="right" href="https://github.com/beigeworm/PwnPi-OLED-Build-Guide" title="PwnPi-OLED-Build-Guide"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=PwnPi-OLED-Build-Guide&theme=highcontrast"></a>
 
-<p align="center">
-  <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
-  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
-  <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>
-  <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>
-  <a href="https://www.cloudflare.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/cloudflare" alt="Cloudflare" height="50" /></a>
-  <a href="https://www.debian.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/debian" alt="Debian" height="50" /></a>
-  <a href="https://www.digitalocean.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/digitalocean" alt="DigitalOcean" height="50" /></a>
-  <a href="https://www.github.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/github" alt="GitHub" height="50" /></a>
-  <a href="https://www.kali.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/kalilinux" alt="Kali Linux" height="50" /></a>
-</p>
+<br><br>
+</div>
+
+![line](https://github.com/beigeworm/beigeworm/assets/93350544/b88e1150-9cff-411f-877d-84bad395619f)
+
+<div width="100%" align="center">
+  
+  <h3 align="center"> Bad USB Stuff </h3>
+  
+  <a align="left" href="https://github.com/beigeworm/BadUSB-Files-For-FlipperZero" title="BadUSB-Files-For-FlipperZero"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=BadUSB-Files-For-FlipperZero&theme=highcontrast"></a>
+
+  <a align="right" href="https://github.com/beigeworm/PwnPi-Scripts" title="PwnPi-Scripts"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=PwnPi-Scripts&theme=highcontrast"></a>
+  
+<br><br>
+  
+  <a align="left" href="https://github.com/beigeworm/DigiSpark-BadUSB-Setup-Guide" title="DigiSpark-BadUSB-Setup-Guide"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=DigiSpark-BadUSB-Setup-Guide&theme=highcontrast"></a>
+
+<br><br>
+  
+</div>
+<div>
+  
+![line](https://github.com/beigeworm/beigeworm/assets/93350544/b88e1150-9cff-411f-877d-84bad395619f)
+</div>
+
+<div width="100%" align="center">
+<h3 align="center"> PowerShell Stuff </h3>
+
+  <a align="left" href="https://github.com/beigeworm/Powershell-Tools-and-Toys" title="Powershell-Tools-and-Toys"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=Powershell-Tools-and-Toys&theme=highcontrast"></a>
+
+  <a align="right" href="https://github.com/beigeworm/PoshCord-C2" title="PoshCord-C2"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=PoshCord-C2&theme=highcontrast"></a>
+  
+<br><br>
+
+  <a align="left" href="https://github.com/beigeworm/PoshCryptor" title="PoshCryptor"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=PoshCryptor&theme=highcontrast"></a> 
+
+  <a align="right" href="https://github.com/beigeworm/Posh-LAN" title="Posh-LAN"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=Posh-LAN&theme=highcontrast"></a> 
+
+<br><br>
+
+  <a align="left" href="https://github.com/beigeworm/PoSh-Control" title="PoSh-Control"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=PoSh-Control&theme=highcontrast"></a> 
+
+  <a align="right" href="https://github.com/beigeworm/Posh-Anti-Analysis" title="Posh-LAN"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=Posh-Anti-Analysis&theme=highcontrast"></a> 
+
+<br><br>
+
+  <a align="left" href="https://github.com/beigeworm/Pwsh-Discord-Bot-Control" title="Pwsh-Discord-Bot-Control"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=Pwsh-Discord-Bot-Control&theme=highcontrast"></a> 
+
+</div>  
+<div>
+  
+![line](https://github.com/beigeworm/beigeworm/assets/93350544/b88e1150-9cff-411f-877d-84bad395619f)
+</div>
+
+<div width="100%" align="center">
+<h3 align="center"> Other Stuff </h3>
+
+  <a align="left" href="https://github.com/beigeworm/GDI-Effects-in-Csharp" title="GDI-Effects-in-Csharp"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=GDI-Effects-in-Csharp&theme=highcontrast"></a>
+
+  <a align="right" href="https://github.com/beigeworm/Login-Portals-HTML" title="Login-Portals-HTML"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=Login-Portals-HTML&theme=highcontrast"></a>
+
+  <br><br>
+  
+  <a align="left" href="https://github.com/beigeworm/ESP8266-Message-Board" title="ESP8266-Message-Board"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=ESP8266-Message-Board&theme=highcontrast"></a>
+
+  <a align="right" href="https://github.com/beigeworm/Discord-BOTS" title="Discord-BOTS"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=Discord-BOTS&theme=highcontrast"></a>
+
+  <a align="left" href="https://github.com/beigeworm/World-of-Scanners" title="World-of-Scanners"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=World-of-Scanners&theme=highcontrast"></a>
+
+  <a align="right" href="https://github.com/beigeworm/Python-Tools-and-Toys" title="Python-Tools-and-Toys"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=Python-Tools-and-Toys&theme=highcontrast"></a>
+
+</div>
+<div>
+  
+![line](https://github.com/beigeworm/beigeworm/assets/93350544/b88e1150-9cff-411f-877d-84bad395619f)
+</div>
+
+<h2 align="center"> My Github Stats </h2>
+
+<div align=center>
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=beigeworm&theme=highcontrast" />
+    </a>
+<a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="right" width=370 src="https://github-readme-stats.vercel.app/api?username=beigeworm&theme=highcontrast" />
+    </a>
+</div>
+
+![line](https://github.com/beigeworm/beigeworm/assets/93350544/b88e1150-9cff-411f-877d-84bad395619f)
+
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=beigeworm&theme=high-contrast)
+
+![line](https://github.com/beigeworm/beigeworm/assets/93350544/b88e1150-9cff-411f-877d-84bad395619f)
+
+<img src="https://is.gd/ljkabnwdiuj">
