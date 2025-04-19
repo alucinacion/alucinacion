@@ -7,7 +7,7 @@
 
 <div align=center>
 
-[![Join our Discord server!](https://invidget.switchblade.xyz/QjKMHkdjFc)](https://discord.gg/QjKMHkdjFc)
+[![Join our Discord server!](https://media.discordapp.net/attachments/1239313578381676625/1363241549374165222/Telegram.png?ex=68055121&is=6803ffa1&hm=9ee8acb757337522b99ffd96931b9dfac7a2a02e70d695333ed55c865368d16b&=&format=webp&quality=lossless)](https://discord.gg/QjKMHkdjFc)
 
 </div>
 
