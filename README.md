@@ -1,6 +1,6 @@
 <div align=center>
 
-![beigebanner](https://github.com/user-attachments/assets/5f1a94e2-fb08-47a5-bac0-dee9ab28fd5f)
+![beigebanner](https://i.pinimg.com/736x/62/19/4b/62194bbde2e06ae3e81631de78a4d714.jpg)
 
 <div width="100%" align="center">
 <h2 align="center"> Join The Club! </h2>
