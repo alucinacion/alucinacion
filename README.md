@@ -1,13 +1,13 @@
 <div align=center>
 
-![beigebanner](https://i.pinimg.com/736x/62/19/4b/62194bbde2e06ae3e81631de78a4d714.jpg)
+![alucinacion](https://i.pinimg.com/736x/62/19/4b/62194bbde2e06ae3e81631de78a4d714.jpg)
 
 <div width="100%" align="center">
-<h2 align="center"> Join The Club! </h2>
+<h2 align="center"> Contact Me </h2>
 
 <div align=center>
 
-[![Join our Discord server!](https://invidget.switchblade.xyz/QjKMHkdjFc)](https://discord.gg/QjKMHkdjFc)
+[![Telegram](https://t.me/uhmako)
 
 </div>
 
