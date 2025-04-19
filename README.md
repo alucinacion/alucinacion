@@ -28,7 +28,7 @@
 
 <div width="100%" align="center">
   
-  <h3 align="center"> Bad USB Stuff </h3>
+  <h3 align="center"> Osint </h3>
   
   <a align="left" href="https://github.com/beigeworm/BadUSB-Files-For-FlipperZero" title="BadUSB-Files-For-FlipperZero"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=BadUSB-Files-For-FlipperZero&theme=highcontrast"></a>
 
