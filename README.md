@@ -7,7 +7,7 @@
 
 <div align=center>
 
-[![Telegram](https://t.me/uhmako)
+[![Join our Discord server!](https://invidget.switchblade.xyz/QjKMHkdjFc)](https://discord.gg/QjKMHkdjFc)
 
 </div>
 
