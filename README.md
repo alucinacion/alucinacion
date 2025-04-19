@@ -17,39 +17,36 @@
 
 <div width="100%" align="center">
   
-<a align="left" href="https://github.com/osintxpert/email-hunter" title="Email-Hunter">
-  <img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=osintxpert&repo=email-hunter&theme=highcontrast">
-</a>
-<a align="right" href="https://github.com/osintxpert/phone-scan" title="Phone-Scan">
-  <img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=osintxpert&repo=phone-scan&theme=highcontrast">
-</a>
+  <h3 align="center"> Hardware Projects </h3>
+
+  <a align="left" href="https://github.com/beigeworm/PicoLogger-Hardware-Keylogger" title="PicoLogger-Hardware-Keylogger"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=PicoLogger-Hardware-Keylogger&theme=highcontrast"></a>
+
+  <a align="right" href="https://github.com/beigeworm/PwnPi-OLED-Build-Guide" title="PwnPi-OLED-Build-Guide"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=PwnPi-OLED-Build-Guide&theme=highcontrast"></a>
 
 <br><br>
+</div>
 
-<a align="left" href="https://github.com/osintxpert/user-sleuth" title="User-Sleuth">
-  <img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=osintxpert&repo=user-sleuth&theme=highcontrast">
-</a>
-<a align="right" href="https://github.com/twintproject/twint" title="Twint">
-  <img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=twintproject&repo=twint&theme=highcontrast">
-</a>
+![line](https://github.com/beigeworm/beigeworm/assets/93350544/b88e1150-9cff-411f-877d-84bad395619f)
+
+<div width="100%" align="center">
+  
+  <h3 align="center"> Bad USB Stuff </h3>
+  
+  <a align="left" href="https://github.com/beigeworm/BadUSB-Files-For-FlipperZero" title="BadUSB-Files-For-FlipperZero"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=BadUSB-Files-For-FlipperZero&theme=highcontrast"></a>
+
+  <a align="right" href="https://github.com/beigeworm/PwnPi-Scripts" title="PwnPi-Scripts"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=PwnPi-Scripts&theme=highcontrast"></a>
+  
+<br><br>
+  
+  <a align="left" href="https://github.com/beigeworm/DigiSpark-BadUSB-Setup-Guide" title="DigiSpark-BadUSB-Setup-Guide"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=DigiSpark-BadUSB-Setup-Guide&theme=highcontrast"></a>
 
 <br><br>
-
-<a align="left" href="https://github.com/Datalux/Osintgram" title="OSINTgram">
-  <img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Datalux&repo=Osintgram&theme=highcontrast">
-</a>
-<a align="right" href="https://github.com/smicallef/spiderfoot" title="SpiderFoot">
-  <img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=smicallef&repo=spiderfoot&theme=highcontrast">
-</a>
-
-<br><br>
-
-<a align="left" href="https://github.com/laramies/metagoofil" title="Metagoofil">
-  <img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=laramies&repo=metagoofil&theme=highcontrast">
-</a>
-<a align="right" href="https://github.com/s0md3v/Photon" title="Photon">
-  <img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=s0md3v&repo=Photon&theme=highcontrast">
-</a>
+  
+</div>
+<div>
+  
+![line](https://github.com/beigeworm/beigeworm/assets/93350544/b88e1150-9cff-411f-877d-84bad395619f)
+</div>
 
 <div width="100%" align="center">
 <h3 align="center"> PowerShell Stuff </h3>
@@ -117,7 +114,3 @@
 ![line](https://github.com/beigeworm/beigeworm/assets/93350544/b88e1150-9cff-411f-877d-84bad395619f)
 
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=beigeworm&theme=high-contrast)
-
-![line](https://github.com/beigeworm/beigeworm/assets/93350544/b88e1150-9cff-411f-877d-84bad395619f)
-
-<img src="https://is.gd/ljkabnwdiuj">
