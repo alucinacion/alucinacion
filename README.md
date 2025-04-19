@@ -3,11 +3,11 @@
 ![alucinacion](https://i.pinimg.com/736x/62/19/4b/62194bbde2e06ae3e81631de78a4d714.jpg)
 
 <div width="100%" align="center">
-<h2 align="center"> Contact Me </h2>
+<h2 align="center"> Click Here To Contact Me </h2>
 
 <div align=center>
 
-[![Join our Discord server!](https://media.discordapp.net/attachments/1239313578381676625/1363242131032113302/image.png?ex=680551ab&is=6804002b&hm=964b2bdee54b6a25bc73588c5182bf9d894cb1bc860a035f83dd06becc13008a&=&format=webp&quality=lossless)](https://t.me/uhmakohttps://t.me/uhmako)
+[![Join our Discord server!](https://media.discordapp.net/attachments/1239313578381676625/1363242131032113302/image.png?ex=680551ab&is=6804002b&hm=964b2bdee54b6a25bc73588c5182bf9d894cb1bc860a035f83dd06becc13008a&=&format=webp&quality=lossless)](https://t.me/uhmako)
 
 </div>
 
