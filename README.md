@@ -21,7 +21,7 @@
 
   <a align="left" href="https://github.com/alucinacion/DDoS" title="DDoS"><img align="left" height="115" src="https://github.com/alucinacion/DDoS"></a>
 
-  <a align="right" href="https://github.com/alucinacion/proxys4yall" title="Proxy Combo List"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=alucinacion&repo=DDoS=highcontrast"></a>
+  <a align="right" href="https://github.com/alucinacion/proxys4yall" title="Proxy Combo List"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=alucinacion&repo=proxys4yall=highcontrast"></a>
 
 <br><br>
 </div>
