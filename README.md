@@ -11,17 +11,17 @@
 
 </div>
 
-<h2 align="center"> My Repositories </h2>
+<h2 align="center"> Welcome To My Hall </h2>
   
 </div>
 
 <div width="100%" align="center">
   
-  <h3 align="center"> Hardware Projects </h3>
+  <h3 align="center"> My Public Repositories </h3>
 
-  <a align="left" href="https://github.com/beigeworm/PicoLogger-Hardware-Keylogger" title="PicoLogger-Hardware-Keylogger"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=PicoLogger-Hardware-Keylogger&theme=highcontrast"></a>
+  <a align="left" href="https://github.com/alucinacion/DDoS" title="DDoS"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=PicoLogger-Hardware-Keylogger&theme=highcontrast"></a>
 
-  <a align="right" href="https://github.com/beigeworm/PwnPi-OLED-Build-Guide" title="PwnPi-OLED-Build-Guide"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=PwnPi-OLED-Build-Guide&theme=highcontrast"></a>
+  <a align="right" href="https://github.com/alucinacion/proxys4yall" title="Proxy Combo List"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=PwnPi-OLED-Build-Guide&theme=highcontrast"></a>
 
 <br><br>
 </div>
