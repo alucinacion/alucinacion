@@ -19,9 +19,10 @@
   
   <h3 align="center"> Repositories </h3>
 
-  <a align="left" href="https://github.com/alucinacion/proxys4yall" title="DDoS"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=alucinacion&repo=proxys4yall&theme=highcontrast"></a>
+ <a align="right" href="https://github.com/alucinacion/DDoS" title="Proxys"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=alucinacion&repo=DDoS&theme=highcontrast"></a>
+  
+<a align="left" href="https://github.com/alucinacion/proxys4yall" title="DDoS"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=alucinacion&repo=proxys4yall&theme=highcontrast"></a>
 
-  <a align="right" href="https://github.com/alucinacion/DDoS" title="Proxys"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=alucinacion&repo=DDoS&theme=highcontrast"></a>
 
 <br><br>
 </div>
