@@ -1,6 +1,10 @@
-<div align=center>
-
-![alucinacion](https://i.pinimg.com/originals/a5/43/0d/a5430d131e591c8ac612d13e7b9556f8.gif)
+<div align="center">
+  <img 
+    src="https://i.pinimg.com/originals/a5/43/0d/a5430d131e591c8ac612d13e7b9556f8.gif" 
+    width="800" 
+    alt="alucinacion" 
+  />
+</div>
 
 <div width="100%" align="center">
 <h2 align="center"> Click Here To Contact Me </h2>
