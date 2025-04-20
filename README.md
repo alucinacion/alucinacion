@@ -17,11 +17,11 @@
 
 <div width="100%" align="center">
   
-  <h3 align="center"> OSINT </h3>
+  <h3 align="center"> Repositories </h3>
 
   <a align="left" href="https://github.com/alucinacion/proxys4yall" title="DDoS"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=alucinacion&repo=proxys4yall&theme=highcontrast"></a>
 
-  <a align="right" href="https://github.com/beigeworm/PwnPi-OLED-Build-Guide" title="PwnPi-OLED-Build-Guide"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=PwnPi-OLED-Build-Guide&theme=highcontrast"></a>
+  <a align="right" href="https://github.com/alucinacion/DDoS" title="Proxys"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=alucinacion&repo=DDoS&theme=highcontrast"></a>
 
 <br><br>
 </div>
