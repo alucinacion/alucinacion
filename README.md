@@ -45,7 +45,7 @@
   
   <a align="left" href="https://github.com/laramies/Metagoofil" title="Metagoofil"><img align="left" height="116" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=laramies&repo=Metagoofil&theme=highcontrast"></a>
 
-  <a align="right" href="https://github.com/sundowndev/PhoneInfoga" title="PhoneInfoga"><img align="right" height="114" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sundowndev&repo=PhoneInfoga&theme=highcontrast"></a>
+  <a align="right" href="https://github.com/sundowndev/PhoneInfoga" title="PhoneInfoga"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sundowndev&repo=PhoneInfoga&theme=highcontrast"></a>
   
 <br><br>
   
