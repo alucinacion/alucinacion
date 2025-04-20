@@ -7,7 +7,7 @@
 
 <div align=center>
 
-[![Join our Discord server!](https://media.discordapp.net/attachments/1239313578381676625/1363242131032113302/image.png?ex=680551ab&is=6804002b&hm=964b2bdee54b6a25bc73588c5182bf9d894cb1bc860a035f83dd06becc13008a&=&format=webp&quality=lossless)](https://t.me/uhmako)
+[![Contact](https://media.discordapp.net/attachments/1239313578381676625/1363242131032113302/image.png?ex=680551ab&is=6804002b&hm=964b2bdee54b6a25bc73588c5182bf9d894cb1bc860a035f83dd06becc13008a&=&format=webp&quality=lossless)](https://t.me/uhmako)
 
 </div>
 
