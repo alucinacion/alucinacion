@@ -31,16 +31,18 @@
 
 <div width="100%" align="center">
   
-  <h3 align="center"> Bad USB Stuff </h3>
+  <h3 align="center"> Osint </h3>
   
-  <a align="left" href="https://github.com/beigeworm/BadUSB-Files-For-FlipperZero" title="BadUSB-Files-For-FlipperZero"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=BadUSB-Files-For-FlipperZero&theme=highcontrast"></a>
+  <a align="left" href="https://github.com/p1ngul1n0/Blackbird" title="Blackbird"><img align="left" height="135" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=p1ngul1n0&repo=Blackbird&theme=highcontrast"></a>
 
-  <a align="right" href="https://github.com/beigeworm/PwnPi-Scripts" title="PwnPi-Scripts"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=PwnPi-Scripts&theme=highcontrast"></a>
+  <a align="right" href="https://github.com/twintproject/Twint" title="Twint"><img align="right" height="143" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=twintproject&repo=Twint&theme=highcontrast"></a>
   
-<br><br>
+<br><br><br><br><br><br><br><br>
   
-  <a align="left" href="https://github.com/beigeworm/DigiSpark-BadUSB-Setup-Guide" title="DigiSpark-BadUSB-Setup-Guide"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=DigiSpark-BadUSB-Setup-Guide&theme=highcontrast"></a>
+  <a align="left" href="https://github.com/laramies/Metagoofil" title="Metagoofil"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=laramies&repo=Metagoofil&theme=highcontrast"></a>
 
+  <a align="right" href="https://github.com/sundowndev/PhoneInfoga" title="PhoneInfoga"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sundowndev&repo=PhoneInfoga&theme=highcontrast"></a>
+  
 <br><br>
   
 </div>
@@ -50,71 +52,69 @@
 </div>
 
 <div width="100%" align="center">
-<h3 align="center"> PowerShell Stuff </h3>
+<h3 align="center"> Pentesting </h3>
 
-  <a align="left" href="https://github.com/beigeworm/Powershell-Tools-and-Toys" title="Powershell-Tools-and-Toys"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=Powershell-Tools-and-Toys&theme=highcontrast"></a>
+ <a align="left" href="https://github.com/RustScan/RustScan" title="RustScan"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=RustScan&repo=RustScan&theme=highcontrast"></a>
 
-  <a align="right" href="https://github.com/beigeworm/PoshCord-C2" title="PoshCord-C2"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=PoshCord-C2&theme=highcontrast"></a>
+  <a align="right" href="https://github.com/maurosoria/Dirsearch" title="Dirsearch"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=maurosoria&repo=Dirsearch&theme=highcontrast"></a>
+  
+<br><br><br><br><br><br><br><br>
+  
+  <a align="left" href="https://github.com/s0md3v/XSStrike" title="XSStrike"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=s0md3v&repo=XSStrike&theme=highcontrast"></a>
+
+  <a align="right" href="https://github.com/swisskyrepo/PayloadsAllTheThings" title="PayloadsAllTheThings"><img align="right" height="134" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=swisskyrepo&repo=PayloadsAllTheThings&theme=highcontrast"></a>
   
 <br><br>
-
-  <a align="left" href="https://github.com/beigeworm/PoshCryptor" title="PoshCryptor"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=PoshCryptor&theme=highcontrast"></a> 
-
-  <a align="right" href="https://github.com/beigeworm/Posh-LAN" title="Posh-LAN"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=Posh-LAN&theme=highcontrast"></a> 
-
-<br><br>
-
-  <a align="left" href="https://github.com/beigeworm/PoSh-Control" title="PoSh-Control"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=PoSh-Control&theme=highcontrast"></a> 
-
-  <a align="right" href="https://github.com/beigeworm/Posh-Anti-Analysis" title="Posh-LAN"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=Posh-Anti-Analysis&theme=highcontrast"></a> 
-
-<br><br>
-
-  <a align="left" href="https://github.com/beigeworm/Pwsh-Discord-Bot-Control" title="Pwsh-Discord-Bot-Control"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=Pwsh-Discord-Bot-Control&theme=highcontrast"></a> 
-
-</div>  
+  
+</div>
 <div>
   
 ![line](https://github.com/beigeworm/beigeworm/assets/93350544/b88e1150-9cff-411f-877d-84bad395619f)
 </div>
+  
+</div>
 
 <div width="100%" align="center">
-<h3 align="center"> Other Stuff </h3>
+<h3 align="center"> Exploitation </h3>
 
-  <a align="left" href="https://github.com/beigeworm/GDI-Effects-in-Csharp" title="GDI-Effects-in-Csharp"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=GDI-Effects-in-Csharp&theme=highcontrast"></a>
-
-  <a align="right" href="https://github.com/beigeworm/Login-Portals-HTML" title="Login-Portals-HTML"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=Login-Portals-HTML&theme=highcontrast"></a>
-
+<a align="left" href="https://github.com/sqlmapproject/sqlmap" title="SQLmap">
+    <img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sqlmapproject&repo=sqlmap&theme=highcontrast">
+  </a>
+  <a align="right" href="https://github.com/byt3bl33d3r/CrackMapExec" title="CrackMapExec">
+    <img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=byt3bl33d3r&repo=CrackMapExec&theme=highcontrast">
+  </a>
+  
+  <br><br><br><br><br><br><br><br>
+  
+  <a align="left" href="https://github.com/rapid7/metasploit-framework" title="Metasploit Framework">
+    <img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=rapid7&repo=metasploit-framework&theme=highcontrast">
+  </a>
+  <a align="right" href="https://github.com/commixproject/commix" title="Commix">
+    <img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=commixproject&repo=commix&theme=highcontrast">
+  </a>
+  
   <br><br>
   
-  <a align="left" href="https://github.com/beigeworm/ESP8266-Message-Board" title="ESP8266-Message-Board"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=ESP8266-Message-Board&theme=highcontrast"></a>
-
-  <a align="right" href="https://github.com/beigeworm/Discord-BOTS" title="Discord-BOTS"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=Discord-BOTS&theme=highcontrast"></a>
-
-  <a align="left" href="https://github.com/beigeworm/World-of-Scanners" title="World-of-Scanners"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=World-of-Scanners&theme=highcontrast"></a>
-
-  <a align="right" href="https://github.com/beigeworm/Python-Tools-and-Toys" title="Python-Tools-and-Toys"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=Python-Tools-and-Toys&theme=highcontrast"></a>
-
 </div>
 <div>
-  
-![line](https://github.com/beigeworm/beigeworm/assets/93350544/b88e1150-9cff-411f-877d-84bad395619f)
 </div>
+
+![line](https://github.com/beigeworm/beigeworm/assets/93350544/b88e1150-9cff-411f-877d-84bad395619f)
 
 <h2 align="center"> My Github Stats </h2>
 
 <div align=center>
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=beigeworm&theme=highcontrast" />
+      <img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=alucinacion&theme=highcontrast" />
     </a>
 <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="right" width=370 src="https://github-readme-stats.vercel.app/api?username=beigeworm&theme=highcontrast" />
+      <img align="right" width=370 src="https://github-readme-stats.vercel.app/api?username=alucinacion&theme=highcontrast" />
     </a>
 </div>
 
 ![line](https://github.com/beigeworm/beigeworm/assets/93350544/b88e1150-9cff-411f-877d-84bad395619f)
 
-![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=beigeworm&theme=high-contrast)
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alucinacion&theme=high-contrast)
 
 ![line](https://github.com/beigeworm/beigeworm/assets/93350544/b88e1150-9cff-411f-877d-84bad395619f)
 
