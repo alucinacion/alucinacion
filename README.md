@@ -56,7 +56,7 @@
 </div>
 
 <div width="100%" align="center">
-<h3 align="center"> Pentesting </h3>
+<h3 align="center"> Web Scanning </h3>
 
  <a align="left" href="https://github.com/RustScan/RustScan" title="RustScan"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=RustScan&repo=RustScan&theme=highcontrast"></a>
 
@@ -79,7 +79,7 @@
 </div>
 
 <div width="100%" align="center">
-<h3 align="center"> Exploitation </h3>
+<h3 align="center"> Web Exploitation </h3>
 
 <a align="left" href="https://github.com/sqlmapproject/sqlmap" title="SQLmap">
     <img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sqlmapproject&repo=sqlmap&theme=highcontrast">
