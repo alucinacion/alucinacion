@@ -41,11 +41,11 @@
 
   <a align="right" href="https://github.com/twintproject/Twint" title="Twint"><img align="right" height="143" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=twintproject&repo=Twint&theme=highcontrast"></a>
   
-<br><br><br><br><br><br><br><br>
+<br><br>
   
-  <a align="left" href="https://github.com/laramies/Metagoofil" title="Metagoofil"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=laramies&repo=Metagoofil&theme=highcontrast"></a>
+  <a align="left" href="https://github.com/laramies/Metagoofil" title="Metagoofil"><img align="left" height="116" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=laramies&repo=Metagoofil&theme=highcontrast"></a>
 
-  <a align="right" href="https://github.com/sundowndev/PhoneInfoga" title="PhoneInfoga"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sundowndev&repo=PhoneInfoga&theme=highcontrast"></a>
+  <a align="right" href="https://github.com/sundowndev/PhoneInfoga" title="PhoneInfoga"><img align="right" height="114" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sundowndev&repo=PhoneInfoga&theme=highcontrast"></a>
   
 <br><br>
   
@@ -62,7 +62,7 @@
 
   <a align="right" href="https://github.com/maurosoria/Dirsearch" title="Dirsearch"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=maurosoria&repo=Dirsearch&theme=highcontrast"></a>
   
-<br><br><br><br><br><br><br><br>
+<br><br>
   
   <a align="left" href="https://github.com/s0md3v/XSStrike" title="XSStrike"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=s0md3v&repo=XSStrike&theme=highcontrast"></a>
 
@@ -88,7 +88,7 @@
     <img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=byt3bl33d3r&repo=CrackMapExec&theme=highcontrast">
   </a>
   
-  <br><br><br><br><br><br><br><br>
+  <br><br>
   
   <a align="left" href="https://github.com/rapid7/metasploit-framework" title="Metasploit Framework">
     <img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=rapid7&repo=metasploit-framework&theme=highcontrast">
