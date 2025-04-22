@@ -66,7 +66,7 @@
   
   <a align="left" href="https://github.com/s0md3v/XSStrike" title="XSStrike"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=s0md3v&repo=XSStrike&theme=highcontrast"></a>
 
-  <a align="right" href="https://github.com/swisskyrepo/PayloadsAllTheThings" title="PayloadsAllTheThings"><img align="right" height="134" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=swisskyrepo&repo=PayloadsAllTheThings&theme=highcontrast"></a>
+  <a align="right" href="https://github.com/coffinxp/loxs" title="loxs"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=coffinxp&repo=loxs&theme=highcontrast"></a>
   
 <br><br>
   
