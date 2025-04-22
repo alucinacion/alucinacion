@@ -39,13 +39,13 @@
   
   <a align="left" href="https://github.com/p1ngul1n0/Blackbird" title="Blackbird"><img align="left" height="135" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=p1ngul1n0&repo=Blackbird&theme=highcontrast"></a>
 
-  <a align="right" href="https://github.com/twintproject/Twint" title="Twint"><img align="right" height="143" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=twintproject&repo=Twint&theme=highcontrast"></a>
+  <a align="right" href="https://github.com/twintproject/Twint" title="Twint"><img align="right" height="142" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=twintproject&repo=Twint&theme=highcontrast"></a>
   
 <br><br>
   
   <a align="left" href="https://github.com/laramies/Metagoofil" title="Metagoofil"><img align="left" height="116" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=laramies&repo=Metagoofil&theme=highcontrast"></a>
 
-  <a align="right" href="https://github.com/sundowndev/PhoneInfoga" title="PhoneInfoga"><img align="right" height="114,7" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sundowndev&repo=PhoneInfoga&theme=highcontrast"></a>
+  <a align="right" href="https://github.com/sundowndev/PhoneInfoga" title="PhoneInfoga"><img align="right" height="114" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sundowndev&repo=PhoneInfoga&theme=highcontrast"></a>
   
 <br><br>
   
