@@ -7,7 +7,7 @@
 </div>
 
 <div width="100%" align="center">
-<h2 align="center"> Click Here To C</h2>
+<h2 align="center"> Click Here To Co</h2>
 
 <div align=center>
 
