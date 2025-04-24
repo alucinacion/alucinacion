@@ -23,9 +23,9 @@
   
   <h3 align="center"> Pinned </h3>
 
- <a align="right" href="https://github.com/alucinacion/DDoS" title="Proxys"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=alucinacion&repo=DDoS&theme=highcontrast"></a>
+ <a align="right" href="https://github.com/alucinacion/DDoS" title="DDoS"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=alucinacion&repo=DDoS&theme=highcontrast"></a>
   
-<a align="left" href="https://github.com/alucinacion/proxys4yall" title="DDoS"><img align="left" height="114" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=alucinacion&repo=proxys4yall&theme=highcontrast"></a>
+<a align="left" href="https://github.com/alucinacion/proxys4yall" title="Proxys"><img align="left" height="114" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=alucinacion&repo=proxys4yall&theme=highcontrast"></a>
 
 
 <br><br>
