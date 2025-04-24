@@ -7,7 +7,7 @@
 </div>
 
 <div width="100%" align="center">
-<h2 align="center"> Click Here To Conta</h2>
+<h2 align="center"> Click Here To Contac</h2>
 
 <div align=center>
 
