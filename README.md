@@ -16,7 +16,7 @@
 
 </div>
 
-<h2 align="center">  Welcome To My Hall </h2>
+<h2 align="center"> Welcome To My Hall </h2>
   
 </div>
 
