@@ -12,7 +12,8 @@
 
 <div align=center>
 
-[![Contact](https://media.discordapp.net/attachments/1239313578381676625/1373237013884440576/image.png?ex=6829ae21&is=68285ca1&hm=a93dcb8e690c544c5dca6dc48014d1b34f0e4ba3ea31f5ce3964dfb641c2df20&=&format=webp&quality=lossless)](https://t.me/budaism)
+[![Contact](https://media.discordapp.net/attachments/1209752963988463666/1377041717206716516/image.png?ex=68378589&is=68363409&hm=dbda36627b42aa15de9fe3530d2d8bddcb53c89bf60825548649c8c297f358ee&=&format=webp&quality=lossless)
+)](https://t.me/budaism)
 
 </div>
 
