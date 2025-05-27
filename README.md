@@ -13,7 +13,7 @@
 <div align=center>
 
 [![Contact](https://media.discordapp.net/attachments/1209752963988463666/1377041717206716516/image.png?ex=68378589&is=68363409&hm=dbda36627b42aa15de9fe3530d2d8bddcb53c89bf60825548649c8c297f358ee&=&format=webp&quality=lossless)
-)](https://t.me/budaism)
+](https://t.me/budaism)
 
 </div>
 
