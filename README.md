@@ -12,7 +12,7 @@
 
 <div align=center>
 
-[![Contact](https://media.discordapp.net/attachments/1209752963988463666/1377041717206716516/image.png?ex=684fe949&is=684e97c9&hm=d722fba5b2f6df10c293cfb6082c5d5dffacb81ef54cc954c9814b40aa55b8b6&=&format=webp&quality=lossless)
+[![Contact](https://discord.com/channels/@me/1209752963988463666/1393303753452552242)
 ](https://t.me/uhmako)
 
 </div>
