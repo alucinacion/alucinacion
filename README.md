@@ -12,7 +12,7 @@
 
 <div align=center>
 
-[![Contact](https://media.discordapp.net/attachments/1209752963988463666/1407130593656963184/image.png?ex=68a4fbfc&is=68a3aa7c&hm=de1ee8ba4181f3da14102a179b59d19e1da05860a234bc0893cd0c77fb1087be&=&format=webp&quality=lossless)
+[![Contact](https://media.discordapp.net/attachments/1209752963988463666/1407130926584172644/Telegram.png?ex=68a4fc4c&is=68a3aacc&hm=1aa7735c5ef619904c012f2d68bfae839325fbe70b47ec1c9911f1393eb03cfc&=&format=webp&quality=lossless)
 ](https://t.me/uhmako)
 
 </div>
