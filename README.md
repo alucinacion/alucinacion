@@ -29,6 +29,9 @@
   
 <a align="left" href="https://github.com/alucinacion/decompiler" title="Decompiler"><img align="left" height="114" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=alucinacion&repo=decompiler&theme=highcontrast"></a>
 
+<a align="left" href="https://github.com/alucinacion/decompiler" title="Decompiler"><img align="left" height="114" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=alucinacion&repo=decompiler&theme=highcontrast"></a>
+
+
 
 <br><br>
 </div>
