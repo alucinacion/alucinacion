@@ -27,7 +27,7 @@
 
 <a align="right" href="https://github.com/alucinacion/DDoS" title="DDoS"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=alucinacion&repo=DDoS&theme=highcontrast"></a>
   
-<a align="left" href="https://github.com/alucinacion/decompiler" title="Decompiler"><img align="left" height="114" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=alucinacion&repo=Decompiler&theme=highcontrast"></a>
+<a align="left" href="https://github.com/alucinacion/Decompiler" title="Decompiler"><img align="left" height="114" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=alucinacion&repo=Decompiler&theme=highcontrast"></a>
 
 
 
