@@ -1,6 +1,6 @@
      
 <div align="center">                               
-  <img         
+  <img          
     src="https://i.imgur.com/Xc6OuQc.jpeg" 
     width="800"   
     alt="alucinacion" 
