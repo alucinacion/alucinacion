@@ -13,7 +13,7 @@
 <div align=center>
 
 [![Contact](https://i.imgur.com/jI2qcHK.png)
-](https://t.me/uhmako)
+](https://t.me/foolest)
 
 </div>
 
