@@ -106,17 +106,13 @@
 
 ![line](https://github.com/beigeworm/beigeworm/assets/93350544/b88e1150-9cff-411f-877d-84bad395619f)
 
-<h2 align="center"> Github Stats </h2>
-<div align=center>
+<h2 align="center">Github Stats</h2>
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=alucinacion&theme=highcontrast" />
-    </a>
-
-<a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="right" width=370 src="https://github-readme-stats.vercel.app/api?username=alucinacion&theme=highcontrast" />
-    </a>
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=alucinacion&theme=highcontrast" />
+</a>
 </div>
-    
+  
 
 ![line](https://github.com/beigeworm/beigeworm/assets/93350544/b88e1150-9cff-411f-877d-84bad395619f)
 
