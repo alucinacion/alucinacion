@@ -1,7 +1,7 @@
                                                                                                                  
 <div align="center">                                    
   <img          
-    src="https://i.imgur.com/Xc6OuQc.jpeg" 
+    src="https://imgur.com/a/Wie5aEb" 
     width="800"   
     alt="alucinacion" 
   />
