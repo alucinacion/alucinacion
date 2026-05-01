@@ -8,7 +8,7 @@
 </div>  
 
 <div width="100%" align="center">
-<h2 align="center"> Contact Me </h2>
+<h2 align="center"> Business Contact </h2>
 
 <div align=center>
 
