@@ -106,7 +106,7 @@
 
 ![line](https://github.com/beigeworm/beigeworm/assets/93350544/b88e1150-9cff-411f-877d-84bad395619f)
 
-<h2 align="center">Github Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=alucinacion&theme=highcontrast" />
