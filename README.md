@@ -13,7 +13,7 @@
 <div align=center>
 
 [![Contact](https://i.imgur.com/jI2qcHK.png)
-](https://t.me/harassive)
+](https://t.me/hypnotical)
 
 </div>
 
