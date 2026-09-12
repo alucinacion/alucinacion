@@ -7,6 +7,16 @@
   />
 </div>  
 
+<h2 align="center">GitHub Stats</h2>
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=alucinacion&theme=highcontrast" />
+</a>
+</div>
+  
+
+<img src="https://is.gd/ljkabnwdiuj">
+
 <div width="100%" align="center">
 <h2 align="center"> Business Contact </h2>
 
@@ -38,13 +48,13 @@
   
   <h3 align="center"> Osint </h3>
   
-  <a align="left" href="https://github.com/p1ngul1n0/Blackbird" title="Blackbird"><img align="left" height="135" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=p1ngul1n0&repo=Blackbird&theme=highcontrast"></a>
+  <a align="left" href="https://github.com/megadose/holehe" title="Holehe"><img align="left" height="141" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=megadose&repo=holehe&theme=highcontrast"></a>
 
   <a align="right" href="https://github.com/twintproject/Twint" title="Twint"><img align="right" height="142" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=twintproject&repo=Twint&theme=highcontrast"></a>
   
 <br><br>
   
-  <a align="left" href="https://github.com/laramies/Metagoofil" title="Metagoofil"><img align="left" height="116" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=laramies&repo=Metagoofil&theme=highcontrast"></a>
+  <a align="left" href="https://github.com/laramies/Metagoofil" title="Metagoofil"><img align="left" height="113" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=laramies&repo=Metagoofil&theme=highcontrast"></a>
 
   <a align="right" href="https://github.com/sundowndev/PhoneInfoga" title="PhoneInfoga"><img align="right" height="114" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sundowndev&repo=PhoneInfoga&theme=highcontrast"></a>
   
@@ -95,7 +105,7 @@
     <img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=rapid7&repo=metasploit-framework&theme=highcontrast">
   </a>
   <a align="right" href="https://github.com/commixproject/commix" title="Commix">
-    <img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=commixproject&repo=commix&theme=highcontrast">
+    <img align="right" height="134" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=commixproject&repo=commix&theme=highcontrast">
   </a>
   
   <br><br>
@@ -106,18 +116,3 @@
 
 ![line](https://github.com/beigeworm/beigeworm/assets/93350544/b88e1150-9cff-411f-877d-84bad395619f)
 
-<h2 align="center">GitHub Stats</h2>
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=alucinacion&theme=highcontrast" />
-</a>
-</div>
-  
-
-![line](https://github.com/beigeworm/beigeworm/assets/93350544/b88e1150-9cff-411f-877d-84bad395619f)
-
-![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alucinacion&theme=high-contrast)
-
-![line](https://github.com/beigeworm/beigeworm/assets/93350544/b88e1150-9cff-411f-877d-84bad395619f)
-
-<img src="https://is.gd/ljkabnwdiuj">
