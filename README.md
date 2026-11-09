@@ -23,7 +23,7 @@
 <div align=center>
 
 [![Contact](https://i.imgur.com/jI2qcHK.png)
-](https://t.me/larpear)
+](https://t.me/gatewaydoor)
 
 </div>
 
